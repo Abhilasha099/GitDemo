@@ -11,7 +11,7 @@ public class ActionsandFrames {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		WebDriverManager.chromedriver().setup();
+		//WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
 		//driver.get("https://rahulshettyacademy.com/");
