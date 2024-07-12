@@ -22,6 +22,9 @@ public class ActionsandFrames {
 		act.moveToElement(ele).click().keyDown(Keys.SHIFT).sendKeys("testing").build().perform();*/
 	
 	System.out.println("Hello fresh commit from US");
+	System.out.println("Hello line 1");
+	System.out.println("Hello line 2");
+	System.out.println("Hello line 3");
 	}
 
 }

@@ -10,6 +10,8 @@ public class TrickyQues {
 		System.out.println(str.substring(6)+","+str.substring(0,5));
 		System.out.println(str.substring(1,2)); 
 		System.out.println("Hello summers");
+		System.out.println("Hell is hello");
+		System.out.println("Hello line 44");
 		
 		//Ternary operator
 		int a=10;
