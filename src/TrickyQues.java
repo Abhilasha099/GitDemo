@@ -9,6 +9,7 @@ public class TrickyQues {
 		String str="Abhilasha Gupta";
 		System.out.println(str.substring(6)+","+str.substring(0,5));
 		System.out.println(str.substring(1,2)); 
+		System.out.println("Hello summers");
 		
 		//Ternary operator
 		int a=10;
