@@ -8,6 +8,9 @@ public class fibonaccii {
 		int b=1;
 		int sum=0;
 		int i=0;
+		
+		System.out.println("Hello line in fibonicci");
+		System.out.println("Hello winter");
 		//System.out.println(a);
 	//	System.out.println(b);
 		while( i <9)
